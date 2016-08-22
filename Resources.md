@@ -13,3 +13,11 @@ Google
 
 https://developers.google.com/fit/android/data-types
 https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType
+
+Samsung
+
+http://developer.samsung.com/health
+
+http://img-developer.samsung.com/onlinedocs/health/com/samsung/android/sdk/healthdata/HealthConstants.html
+
+http://img-developer.samsung.com/health/daily_step_count_trend.html
