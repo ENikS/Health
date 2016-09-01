@@ -1,7 +1,7 @@
 
 1. Cool to 0 - 2 C°
 2. React at 5.5 - 7 pH
-3. Once temp drops stop base first and stop acid when 2.5 pH
+3. Once temp drops stop base first and stop acid when 1 - 2.5 pH
 4. Keep cold for 24 - 36 hours, let it reach equilibrium ??
 5. Offgas with vacuum[ and heat]
 6. Distill at < 105C° ?
