@@ -22,3 +22,7 @@ Journal of Chemical & Engineering Data 34(4):466-467 · October 1989
 
 Azerotrope - http://biopent.uv.es/~roberto/Docencia2013/LQFI/P6/06_35_86.pdf 
 
+
+DCM extracted mix must be heated to 150C° to evaporate nitric acid
+
+
