@@ -20,4 +20,5 @@ Ice out water ? / Distill azeotrope ?
 
 Journal of Chemical & Engineering Data 34(4):466-467 · October 1989
 
-Azerotrope http://pubs.acs.org/doi/pdf/10.1021/ba-1962-0035.ch001
+Azerotrope - http://biopent.uv.es/~roberto/Docencia2013/LQFI/P6/06_35_86.pdf 
+http://pubs.acs.org/doi/pdf/10.1021/ba-1962-0035.ch001
