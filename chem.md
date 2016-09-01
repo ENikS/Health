@@ -19,3 +19,5 @@ Ice out water ? / Distill azeotrope ?
 - http://www.sciencemadness.org/talk/viewthread.php?tid=3159&page=2
 
 Journal of Chemical & Engineering Data 34(4):466-467 · October 1989
+
+Azerotrope http://pubs.acs.org/doi/pdf/10.1021/ba-1962-0035.ch001
