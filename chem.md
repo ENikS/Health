@@ -2,7 +2,7 @@ logP of lactone in water is 4.3
 
 Cool to 0 - 2 C°
 React at 5.5 - 7 pH
-Once temp drops stop base first and stop acid when reached 4.5 pH
+Once temp drops stop base first and stop acid when < 4.5 pH
 
 Keep cold for 24 - 36 hours, let it reach equilibrium
 Offgas with vacuum and heat
