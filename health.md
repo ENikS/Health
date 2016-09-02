@@ -1,14 +1,18 @@
+Preparation
 
 1. Cool to 0 - 2 C°
 2. React at 5.5 - 7 pH
-3. Once temp drops stop base first and stop acid when 1 - 2.5 pH
+3. Once temp drops stop base first and stop acid when 1 - 2.5 pH or < 3 pH 
 4. Keep cold for 24 - 36 hours, let it reach equilibrium ??
 5. Offgas with vacuum[ and heat]
-6. Distill at < 105C° ?
-7. Extract with DCM (Saturate with salt first)
-8. Evaporate acid at 150C°
-9. Distill under vacuum
-10. Extract with Ethyl acetate
+
+Extraction
+
+1. Distill at < 105C° ?
+2. Extract with DCM (Saturate with salt first)
+3. Evaporate acid at 150C°
+4. Distill under vacuum
+5. Extract with Ethyl acetate
 
 Ice out water ? / Distill azeotrope ?
 
