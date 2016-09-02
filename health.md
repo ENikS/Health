@@ -5,7 +5,7 @@
 4. Keep cold for 24 - 36 hours, let it reach equilibrium ??
 5. Offgas with vacuum[ and heat]
 6. Distill at < 105C° ?
-7. Extract with DCM
+7. Extract with DCM (Saturate with salt first)
 8. Evaporate acid at 150C°
 9. Distill under vacuum
 10. Extract with Ethyl acetate
