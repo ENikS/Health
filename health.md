@@ -8,7 +8,7 @@ Preparation
 
 Extraction
 
-1. Distill at < 105C° ?
+1. Distill at < 105C° with column ?
 2. Extract with DCM (Saturate with salt first)
 3. Evaporate acid at 150C°
 4. Distill under vacuum
