@@ -4,3 +4,7 @@ https://eclipse.org/community/eclipse_newsletter/2014/february/article2.php
 
 http://mqtt.org/new/wp-content/uploads/2009/06/MQTT-SN_spec_v1.2.pdf
 
+[xmpp](http://wiki.xmpp.org/web/Main_Page)
+
+[UPnP](https://openconnectivity.org/)
+
