@@ -22,3 +22,7 @@ http://www.contiki-os.org/
 
 http://www.chibios.org/
 
+http://www.nuttx.org/
+
+http://openembedded.org/
+
