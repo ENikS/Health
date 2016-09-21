@@ -28,3 +28,5 @@ http://www.nuttx.org/
 
 http://openembedded.org/
 
+https://hal.inria.fr/hal-01245551/file/IoT-OS-survey.pdf
+
