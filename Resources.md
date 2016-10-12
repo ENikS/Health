@@ -23,3 +23,5 @@ http://img-developer.samsung.com/onlinedocs/health/com/samsung/android/sdk/healt
 http://img-developer.samsung.com/health/daily_step_count_trend.html
 
 ## Microsoft
+
+https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
