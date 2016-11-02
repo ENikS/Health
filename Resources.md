@@ -31,3 +31,7 @@ http://www.imdb.com/chart/top
 
 
 https://github.com/petehunt/webpack-howto
+
+## Other
+
+http://www.artofdyingwell.org/
