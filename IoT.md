@@ -30,3 +30,5 @@ http://openembedded.org/
 
 https://hal.inria.fr/hal-01245551/file/IoT-OS-survey.pdf
 
+
+http://www.eetimes.com/document.asp?doc_id=1295643
