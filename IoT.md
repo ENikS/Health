@@ -36,3 +36,7 @@ http://www.eetimes.com/document.asp?doc_id=1295643
 http://www.phidgets.com/
 
 USBTMC  - http://www.eetimes.com/document.asp?doc_id=1295643
+
+http://www.ivifoundation.org/
+
+
