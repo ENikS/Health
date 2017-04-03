@@ -8,3 +8,6 @@ Recrystallization
 7.	Filtered ethanol add to 1000 ml beaker with remaining sediment and heat to 70 C° while stirring
 8.	Filter out and discard remaining solids
 9.	Repeat step 3 or 6 if done.
+10.	Soak Molecular Sieve 3a or Potassium carbonate in remaining ethanol to absorb water
+11.	Distill ethanol and reuse
+
