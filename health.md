@@ -10,7 +10,7 @@ Extraction
 5. Extract with Ethyl acetate
 
 Reaction of aqueous extract
-1. Titrate with base until Ph reads 12. During titration slow down when Ph increases over 11.5.
+1. Titrate with base until Ph reads 12. During titration slow down when Ph increases over 11.
 2. Add acid to bring Ph down to 9
 3. Evaporate water until temperature reaches 120C°
 4. Pour remaining solution into silicone dish and heat in oven at 360F° until bubbling stops.
