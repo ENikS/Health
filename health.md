@@ -19,12 +19,6 @@ Reaction of aqueous extract
 7. Recrystallize
 
 
-
-Ice out water ? / Distill azeotrope ?
-
-logP of lactone in water is 4.3
-
-
 - http://www.sciencemadness.org/talk/viewthread.php?tid=7538
 - http://chemistry.mdma.ch/synthforum/about1542.html
 - http://chemistry.mdma.ch/hiveboard/chemistrydiscourse/000394630.html
