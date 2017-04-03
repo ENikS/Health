@@ -1,10 +1,5 @@
 Preparation
 
-1. Cool to 0 - 2 C°
-2. React at 5.5 - 7 pH
-3. Once temp drops stop base first and stop acid when 1 - 2.5 pH or < 3 pH 
-4. Keep cold for 24 - 36 hours, let it reach equilibrium ??
-5. Offgas with vacuum[ and heat]
 
 Extraction
 
@@ -13,6 +8,17 @@ Extraction
 3. Evaporate acid at 150C°
 4. Distill under vacuum
 5. Extract with Ethyl acetate
+
+Reaction of aqueous extract
+1. Titrate with base until Ph reads 12. During titration slow down when Ph increases over 11.5.
+2. Add acid to bring Ph down to 9
+3. Evaporate water until temperature reaches 120C°
+4. Pour remaining solution into silicone dish and heat in oven at 360F° until bubbling stops.
+5. Cool down and let it solidify
+6. Brake into small pieces and grind into powder
+7. Recrystallize
+
+
 
 Ice out water ? / Distill azeotrope ?
 
