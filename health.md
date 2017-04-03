@@ -12,7 +12,7 @@ Extraction
 Reaction of aqueous extract
 1. Titrate with base until Ph reads 12. During titration slow down when Ph increases over 11.
 2. Add acid to bring Ph down to 9
-3. Evaporate water until temperature reaches 120C°
+3. Evaporate water until temperature of solution reaches 120C°
 4. Pour remaining solution into silicone dish and heat in oven at 360F° until bubbling stops.
 5. Cool down and let it solidify
 6. Brake into small pieces and grind into powder
