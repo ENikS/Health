@@ -1,12 +1,12 @@
 1.	Reaction
 2.	Extraction with DCM
-3.	Extraction by boiling
+3.	Extraction by boiling - ?
 4.	DCM Distillation
-5.	Acid Distillation
-6.	Reaction
+5.	Acid Distillation - ?
+6.	Reaction (if solution changes color it should be discarded)
 7.	Boiling water out
-8.	Drying the salt
-9.	Grinding into powder
+8.	Drying the salt by heating to 155 C° until melts
+9.	Let it cool and grind into powder
 10.	Recrystallization
 
 
@@ -24,3 +24,7 @@ Recrystallization
 11.	Repeat step 3 or 6 if done.
 12.	Soak Molecular Sieve 3a, Magnesium sulfate or Potassium carbonate in remaining ethanol to absorb water.
 13.	Distill ethanol and reuse.
+
+
+Solubility Calc
+http://periodic-table-of-elements.org/SOLUBILITY/potassium_hydroxide
