@@ -25,8 +25,7 @@ Reaction of aqueous extract
 - [BUTYRATE.pdf](http://www.swgdrug.org/Monographs/GAMMA-HYDROXYBUTYRATE.pdf)
 - http://www.sciencemadness.org/talk/files.php?pid=267868&aid=21486
 - http://www.sciencemadness.org/talk/viewthread.php?tid=3159&page=2
-- [Extraction_from_Aqueous_Solution.pdf](http://www.sciencemadness.org/talk/files.php?pid=267868&aid=21486 )
- 
+
 
 Journal of Chemical & Engineering Data 34(4):466-467 · October 1989
 
