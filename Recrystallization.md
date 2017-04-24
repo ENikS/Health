@@ -5,7 +5,7 @@
 5.	Acid Distillation - ?
 6.	Reaction (if solution changes color it should be discarded)
 7.	Boiling water out
-8.	Drying the salt by heating to 155 C° until melts
+8.	Drying the salt by heating to 180C° until melts
 9.	Let it cool and grind into powder
 10.	Recrystallization
 
@@ -28,3 +28,10 @@ Recrystallization
 
 Solubility Calc
 http://periodic-table-of-elements.org/SOLUBILITY/potassium_hydroxide
+
+Sodium Salt reacted in water.
+Potassium Salt reacted in ethanol. The water is supplied with potassium so it needs to be dryed with desicant.
+Heat to 180C°.
+Recrystalized in anhydrous ethanol.
+
+Check if KOH with ethanol form two phase solution.
