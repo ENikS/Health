@@ -35,3 +35,7 @@ Heat to 180C°.
 Recrystalized in anhydrous ethanol.
 
 Check if KOH with ethanol form two phase solution.
+
+https://www.google.com/patents/US4267396
+
+
