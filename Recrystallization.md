@@ -30,7 +30,7 @@ Solubility Calc
 http://periodic-table-of-elements.org/SOLUBILITY/potassium_hydroxide
 
 Sodium Salt reacted in water.
-Potassium Salt reacted in ethanol. The water is supplied with potassium so it needs to be dryed with desicant.
+Potassium Salt reacted in ethanol. Dry ethanol with Potassium carbonate and Molecular Cieves. The water is supplied with potassium so it needs to be dryed somehow.
 Heat to 180C°.
 Recrystalized in anhydrous ethanol.
 
