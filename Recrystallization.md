@@ -38,4 +38,7 @@ Check if KOH with ethanol form two phase solution.
 
 https://www.google.com/patents/US4267396
 
+https://www.sciencemadness.org/whisper/viewthread.php?tid=2656&page=2#pid74977
+
+
 
