@@ -42,4 +42,4 @@ https://www.sciencemadness.org/whisper/viewthread.php?tid=2656&page=2#pid74977
 
 https://www.sciencemadness.org/whisper/files.php?pid=74979&aid=1726
 
-[http://v3.espacenet.com/origdoc?DB=EPODOC&IDX=US3479381&F=0&QPN=US3479381][Hydroxide + ROH + ordinary molecular sieves]
+[Hydroxide + ROH + ordinary molecular sieves][http://v3.espacenet.com/origdoc?DB=EPODOC&IDX=US3479381&F=0&QPN=US3479381]
