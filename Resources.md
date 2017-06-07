@@ -8,8 +8,9 @@ https://www.apple.com/researchkit/
 
 http://carekit.org/docs/docs/Overview/Overview.html
 
-[Things](https://itunes.apple.com/us/app/things-3/id904237743?mt=8)
-[Bear](https://itunes.apple.com/us/app/bear/id1016366447?mt=8)
+[Things](https://itunes.apple.com/us/app/things-3/id904237743?mt=8),
+[Bear](https://itunes.apple.com/us/app/bear/id1016366447?mt=8),
+[AirMail](https://itunes.apple.com/us/app/airmail-your-mail-with-you/id993160329?mt=8)
 
 
 ## Google
