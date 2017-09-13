@@ -34,8 +34,13 @@ https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
 http://www.imdb.com/chart/top
 
 
+
 https://github.com/petehunt/webpack-howto
 
 ## Other
 
 http://www.artofdyingwell.org/
+
+
+
+https://www.iconfinder.com/icons/1121660/cooperation_hand_hands_partnership_people_team_unity_icon#size=512
