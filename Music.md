@@ -1,3 +1,3 @@
-Exotica - Une Miss s'immisce
-Thunder - dragons
-Sarsa
+- Exotica - Une Miss s'immisce
+- Thunder - dragons
+- Sarsa - Motyle I Ćmy
