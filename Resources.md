@@ -1,3 +1,8 @@
+## Cold Remedy
+
+http://www.ozy.com/good-sht/spice-rack-cold-remedy/31065
+
+
 ## Quantum
 
 https://scottaaronson.com/democritus/default.html
