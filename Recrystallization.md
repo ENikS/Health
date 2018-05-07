@@ -48,4 +48,7 @@ https://www.google.com/patents/US1978647
 
 http://www.sciencemadness.org/talk/viewthread.php?tid=2656&page=2 - Summary
 
+http://ccc.chem.pitt.edu/wipf/Web/Solvent_Drying.pdf
+
+
 
