@@ -14,3 +14,11 @@ http://www.ti.com/lit/an/snoa718/snoa718.pdf
 http://www.imajeenyus.com/electronics/20110514_power_ultrasonic_driver/index.shtml
 
 
+
+http://www.instructables.com/id/Home-Made-Ultrasonic-Cleaning-Tank/
+
+
+
+https://hackaday.io/project/4689-improve-the-haber-process/log/17115-new-power-supply-design
+
+
