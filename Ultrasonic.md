@@ -32,3 +32,10 @@ http://theses.gla.ac.uk/3851/1/2012albudairiphd.pdf
 
 
 https://www.youtube.com/watch?v=-E7zlQEk5MA
+
+
+
+http://sonomechanics.com/technology/ultrasonic_horn_designs_and_properties/
+
+
+
