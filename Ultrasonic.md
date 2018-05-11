@@ -22,3 +22,7 @@ http://www.instructables.com/id/Home-Made-Ultrasonic-Cleaning-Tank/
 https://hackaday.io/project/4689-improve-the-haber-process/log/17115-new-power-supply-design
 
 
+
+https://www.researchgate.net/publication/226465068_An_approach_to_design_a_high_power_piezoelectric_ultrasonic_transducer
+
+
