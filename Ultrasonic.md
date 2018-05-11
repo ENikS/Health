@@ -26,3 +26,7 @@ https://hackaday.io/project/4689-improve-the-haber-process/log/17115-new-power-s
 https://www.researchgate.net/publication/226465068_An_approach_to_design_a_high_power_piezoelectric_ultrasonic_transducer
 
 
+
+http://theses.gla.ac.uk/3851/1/2012albudairiphd.pdf
+
+
