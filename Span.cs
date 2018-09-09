@@ -2,6 +2,19 @@ using System;
 
 
 
+    public unsafe struct RefContext<T>
+    {
+        private readonly void* _pointer;
+
+        public RefContext(ref T data)
+        {
+            _pointer = Unsafe.AsPointer(ref data);
+        }
+
+        public ref T Value => ref Unsafe.AsRef<T>(_pointer);
+    }
+
+
 
 
 
