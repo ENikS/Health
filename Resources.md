@@ -1,7 +1,7 @@
 
-## Cold Remedy
+## IoC Comparison
 
-http://www.ozy.com/good-sht/spice-rack-cold-remedy/31065
+http://featuretests.apphb.com/DependencyInjection.html
 
 
 ## Quantum
