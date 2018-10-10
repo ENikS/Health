@@ -56,3 +56,10 @@ https://www.iconfinder.com/icons/1121660/cooperation_hand_hands_partnership_peop
 
 
 WinDirStat
+
+
+
+https://www.theatlantic.com/family/archive/2018/10/pickup-artists-ovid/572563/?utm_source=feed
+
+
+
